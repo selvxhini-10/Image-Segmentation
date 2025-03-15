@@ -1,6 +1,6 @@
-# OpenProject CV Workshop
+# OpenProject CV Project
 
-This repository contains materials for an online workshop focusing on image segmentation tasks with MediaPipe.
+This repository contains the requirements for deploying an application with image segmentation tasks with MediaPipe.
 
 ## Prerequisites
 
@@ -62,9 +62,3 @@ source venv/bin/activate
    ```
    streamlit run app.py
    ```
-
-## Workshop Outline
-
-- Introduction to computer vision concepts
-- Hands-on segmentation and masking
-- Working with Streamlit for live demos
